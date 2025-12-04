@@ -1,0 +1,15 @@
+       h1{
+            background-color: rgb(198, 178, 128) ;
+            display: inline-block;
+            width: 250px;
+            margin-bottom: 10px;
+        }
+        body {
+            text-align: center;
+        } 
+        label {
+            text-align: left;
+            display: inline-block;
+            width: 150px;
+        }
+
